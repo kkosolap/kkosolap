@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a student at University of California, Santa Cruz interested in software development and database management. I've developed REST API web and mobile applications and am currently collaborating on research. Reach out if you are interested on working on a project!
+
+- 🔭 I’m currently working on...
+  - an AR mobile application meant to facilitate climate resilience and community interconnectedness in Santa Cruz county
+  - a web application investigating the impact of artificially generated images through a game
+- 📫 How to reach me: katherine.kosolapova@gmail.com
+- 😄 Pronouns: she/her
+
 <!--
 **kkosolap/kkosolap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
