@@ -12,9 +12,11 @@ I'm a student at University of California, Santa Cruz interested in software dev
 - 🎓 Academics...
   - undergraduate at UC Santa Cruz, prospected graduated June 2025
   - applying for UC Santa Cruz Computer Science Master's Program (Sept 2025 - June 2026)
+- ⚡ Fun fact: I founded and am Co-President of the UCSC Taekwondo Club!
 - 📫 How to reach me: katherine.kosolapova@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I founded and am Co-President of the UCSC Taekwondo Club!
+  
+![](https://github.com/kkosolap/kkosolap/ghibli.gif)
 
 <!--
 **kkosolap/kkosolap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
