@@ -10,7 +10,7 @@ I'm a current student studying at University of California, Santa Cruz intereste
 - 📊 Skills: REST APIs, Full-Stack Development, Mobile/Web App Development, Database Management, Agile Methodologies, Collaboration
 - 🤔 I'm currently learning about: Lambda, DynamoDB, and how distributed systems work. Ask me about how that's going!
 - 🎓 Academics...
-  - undergraduate at UC Santa Cruz, prospected graduated June 2025
+  - undergraduate at UC Santa Cruz, prospective graduation in June 2025
   - applying for UC Santa Cruz Computer Science Master's Program (Sept 2025 - June 2026)
 - ⚡ Fun fact: I founded and am Co-President of the UCSC Taekwondo Club!
 - 📫 How to reach me: katherine.kosolapova@gmail.com
