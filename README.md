@@ -1,12 +1,20 @@
-## Hi there 👋
+## hello world 👋😊
 
 I'm a student at University of California, Santa Cruz interested in software development and database management. I've developed REST API web and mobile applications and am currently collaborating on research. Reach out if you are interested on working on a project!
 
 - 🔭 I’m currently working on...
   - an AR mobile application meant to facilitate climate resilience and community interconnectedness in Santa Cruz county
-  - a web application investigating the impact of artificially generated images through a game
+  - a web application investigating the impact of artificially generated images through a game environment
+- 💻 Languages: React/ReactNative, SQL, TypeScript, C, Python, Java
+- 📚 Frameworks & Tools: Node.js/Express.js, AWS Cloud Services (RDS)
+- 📊 Skills: REST APIs, Full-Stack Development, Mobile/Web App Development, Database Management, Agile Methodologies, Collaboration
+- 🤔 I'm currently learning about: Lambda, DynamoDB, and how distributed systems work. Ask me about how that's going!
+- 🎓 Academics...
+  - undergraduate at UC Santa Cruz, prospected graduated June 2025
+  - applying for UC Santa Cruz Computer Science Master's Program (Sept 2025 - June 2026)
 - 📫 How to reach me: katherine.kosolapova@gmail.com
 - 😄 Pronouns: she/her
+- ⚡ Fun fact: I founded and am Co-President of the UCSC Taekwondo Club!
 
 <!--
 **kkosolap/kkosolap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
