@@ -16,7 +16,7 @@ I'm a student at University of California, Santa Cruz interested in software dev
 - 📫 How to reach me: katherine.kosolapova@gmail.com
 - 😄 Pronouns: she/her
   
-![](https://github.com/kkosolap/kkosolap/blob/main/ghibli.gif)
+<p align="center">![](https://github.com/kkosolap/kkosolap/blob/main/ghibli.gif)</p>
 
 <!--
 **kkosolap/kkosolap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
