@@ -1,6 +1,6 @@
 ## hello world 👋😊
 
-I'm a student at University of California, Santa Cruz interested in software development and database management. I've developed REST API web and mobile applications and am currently collaborating on research. Reach out if you are interested on working on a project!
+I'm a current student studying at University of California, Santa Cruz interested in software development and database management. I've developed REST API web and mobile applications and am currently collaborating on research. Reach out if you are interested in working on a project together!
 
 - 🔭 I’m currently working on...
   - an AR mobile application meant to facilitate climate resilience and community interconnectedness in Santa Cruz county
