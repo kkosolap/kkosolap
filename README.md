@@ -17,7 +17,7 @@ I'm a current student studying at University of California, Santa Cruz intereste
 - 😄 Pronouns: she/her
   
 <p align="center">
-  <img src="https://github.com/kkosolap/kkosolap/blob/main/ghibli.gif" alt="Ghibli GIF">
+  <img src="https://github.com/kkosolap/kkosolap/blob/main/ghibli.gif" alt="Ghibli GIF" width="80%">
 </p>
 
 <!--
