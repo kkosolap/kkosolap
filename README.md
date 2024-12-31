@@ -5,8 +5,8 @@ I'm a current student studying at University of California, Santa Cruz intereste
 - 🔭 I’m currently working on...
   - an AR mobile application meant to facilitate climate resilience and community interconnectedness in Santa Cruz county
   - a web application investigating the impact of artificially generated images through a game environment
-- 💻 Languages: React/ReactNative, SQL, TypeScript, C, Python, Java
-- 📚 Frameworks & Tools: Node.js/Express.js, AWS Cloud Services (RDS)
+- 💻 Languages: JavaScript, Java, SQL, TypeScript, C, Python
+- 📚 Frameworks & Tools: React/ReactNative, Node.js/Express.js, AWS Cloud Services (RDS)
 - 📊 Skills: REST APIs, Full-Stack Development, Mobile/Web App Development, Database Management, Agile Methodologies, Collaboration
 - 🤔 I'm currently learning about: Lambda, DynamoDB, and how distributed systems work. Ask me about how that's going!
 - 🎓 Academics...
